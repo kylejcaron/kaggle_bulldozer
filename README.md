@@ -57,6 +57,7 @@ Below is a scatter matrix of our engineered features
 ## Evaluation
 
 We evaluated our model with RMSLE
+
 ![Alt text](images/rmsle.png?raw=True 'RMSLE')
 
 Using 10-Fold Cross Validation we were able to achieve a RMSLE score of below 0.35! Not bad for a 
